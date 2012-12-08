@@ -1,0 +1,16 @@
+*.ipr
+*.iml
+*.iws
+*~
+.metadata/
+target/
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/.externalToolBuilders
+.classpath
+.project
+.settings/
+build/
+.idea/
